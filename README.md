@@ -7,3 +7,4 @@ Fast Campus - React 초격차 패키지 Typescript Essential
 ## Hand Book
 - eng : https://www.typescriptlang.org/docs/handbook/intro.html
 - kor : https://typescript-kr.github.io/
+- Typescript deep dive : https://radlohead.gitbook.io/typescript-deep-dive/
